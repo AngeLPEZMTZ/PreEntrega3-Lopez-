@@ -1,0 +1,24 @@
+.footer{
+    background-color: black;
+    color: $letrasblancas;
+    padding: 30px;
+    text-align: center;
+    font-family: fantasy;
+}
+.social-links a {
+    display: inline-block;
+    width: 40px;
+    background-color: rgb(50, 50,50);
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: white;
+    transition: all .5s ease;
+}
+.footer-cheat{
+    color: $letrasblancas;
+    padding: 100px;
+    text-align: center;
+    font-family: fantasy;
+
+}

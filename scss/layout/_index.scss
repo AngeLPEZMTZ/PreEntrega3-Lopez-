@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(#000,#fff);
+}
+.header{
+    background-size: cover;
+    display: flex;
+    text-align: center;
+    padding-top: 100px;
+}
+.btn-primary{
+    font-family: fantasy;
+    background-color: $letrasred;
+}
+.parrafo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+    color: $letrasblancas;
+}
+.video{
+    padding-top:150px;
+    width: 80%;
+    height: 70vh;
+}
+/*fortune*/
+.foxi h2{
+    font-family: fantasy;
+    color: $letrasred;
+}
+.foxi{
+    color: $letrasblancas;
+    background-image:url(../assets/fortunes-keep-2024-version.avif);
+    background-size: cover;
+    background-color:rgb(100, 100,100);
+    background-blend-mode: soft-light;
+    padding: 100px;
+    align-items: center;
+    height: 60vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.camino h1{
+    text-align: center;
+    padding: 20px;
+    margin: 15px;
+}
+.camino{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+}
+.temporada{
+    height: 100vh;
+    width: 100vh;
+}
+//footer//
+
+//responsive//

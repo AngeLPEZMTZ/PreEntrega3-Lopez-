@@ -1,0 +1,262 @@
+/*base*/
+/*RESET*/
+h1 {
+  font-family: fantasy;
+}
+
+/*variables*/
+/*components*/
+.footer {
+  background-color: black;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.social-links a {
+  display: inline-block;
+  width: 40px;
+  background-color: rgb(50, 50, 50);
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  color: white;
+  transition: all 0.5s ease;
+}
+
+.footer-cheat {
+  color: #fff;
+  padding: 100px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.bg-dark {
+  font-family: fantasy;
+}
+
+/*layout*/
+body {
+  background: linear-gradient(#000, #fff);
+}
+
+.header {
+  background-size: cover;
+  display: flex;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.btn-primary {
+  font-family: fantasy;
+  background-color: #ff0000;
+}
+
+.parrafo {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 50px;
+  color: #fff;
+}
+
+.video {
+  padding-top: 150px;
+  width: 80%;
+  height: 70vh;
+}
+
+/*fortune*/
+.foxi h2 {
+  font-family: fantasy;
+  color: #ff0000;
+}
+
+.foxi {
+  color: #fff;
+  background-image: url(../assets/fortunes-keep-2024-version.avif);
+  background-size: cover;
+  background-color: rgb(100, 100, 100);
+  background-blend-mode: soft-light;
+  padding: 100px;
+  align-items: center;
+  height: 60vh;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.camino h1 {
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+}
+
+.camino {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 50px;
+}
+
+.temporada {
+  height: 100vh;
+  width: 100vh;
+}
+
+.backgrounimg2 {
+  background-image: url(../assets/BP_S2_Hero_Desktop-LG.webp);
+  background-size: cover;
+  background-color: rgb(100, 100, 100);
+  background-blend-mode: soft-light;
+  background-position: 50%;
+  padding: 50px;
+  height: 100%;
+  width: 100%;
+}
+
+.img-left {
+  padding-left: 50px;
+}
+
+.container-pase h1 {
+  color: #fff;
+  text-align: center;
+  align-items: center;
+}
+
+.pase h2 {
+  text-align: center;
+  color: #ff0000;
+}
+
+.pase {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-top: 130px;
+  width: 100%;
+  color: #fff;
+}
+
+.container-carousel {
+  color: #fff;
+  text-align: center;
+  padding-top: 15%;
+}
+
+.carousel-item {
+  font-family: fantasy;
+}
+
+.container-cp {
+  padding: 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ff0000;
+}
+
+.img-right {
+  padding-right: 50px;
+}
+
+.backgrounimg2 {
+  background-image: url(../assets/BP_S2_Hero_Desktop-LG.webp);
+  background-size: cover;
+  background-color: rgb(100, 100, 100);
+  background-blend-mode: soft-light;
+  background-position: 50%;
+  padding: 50px;
+  height: 100%;
+  width: 100%;
+}
+
+.tittle-notes {
+  color: #fff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+.img-notes {
+  height: 40vh;
+}
+
+.container-event {
+  color: #fff;
+  padding: 50px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.container-event ul {
+  list-style-position: inside;
+  padding: 30px;
+}
+
+.container-maps ul {
+  list-style-position: inside;
+}
+
+.container-maps {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.container-modos ul {
+  list-style-position: inside;
+  padding: 20px;
+}
+
+.container-modos {
+  padding: 30px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.backgrounimg3 {
+  background-image: url(../assets/ricochet-logo-tm-new.jpg);
+  background-size: cover;
+  background-color: rgb(100, 100, 100);
+  background-blend-mode: soft-light;
+  background-position: 50%;
+  padding: 50px;
+  height: 100%;
+  width: 100%;
+}
+
+.header-cheat h1 {
+  color: #fff;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.header-cheat {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #fff;
+  vertical-align: inherit;
+}
+
+.text-1 {
+  padding-top: 20px;
+}
+
+.text-2 {
+  padding-top: 20px;
+}
+
+.main-cheat {
+  color: #fff;
+  padding-top: 100px;
+}
+
+.card-2 {
+  padding-top: 50px;
+}
+
+.header-meta {
+  text-align: center;
+  color: #fff;
+  padding: 50px;
+}
+
+.main-arms {
+  text-align: center;
+  list-style-position: inside;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */
